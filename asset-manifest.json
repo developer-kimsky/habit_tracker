@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/developer-kimsky/habit_tracker/static/css/main.668a66c0.css",
-    "main.js": "/developer-kimsky/habit_tracker/static/js/main.92bbdb41.js",
-    "index.html": "/developer-kimsky/habit_tracker/index.html",
-    "main.668a66c0.css.map": "/developer-kimsky/habit_tracker/static/css/main.668a66c0.css.map",
-    "main.92bbdb41.js.map": "/developer-kimsky/habit_tracker/static/js/main.92bbdb41.js.map"
+    "main.css": "./static/css/main.668a66c0.css",
+    "main.js": "./static/js/main.92bbdb41.js",
+    "index.html": "./index.html",
+    "main.668a66c0.css.map": "./static/css/main.668a66c0.css.map",
+    "main.92bbdb41.js.map": "./static/js/main.92bbdb41.js.map"
   },
   "entrypoints": [
     "static/css/main.668a66c0.css",
