@@ -1,6 +1,6 @@
 <h1>Habit tracker</h1>
 <h3>Link</h3>
-<p>https://github.com/developer-kimsky/habit_tracker/</p>
+<p>https://developer-kimsky.github.io/habit_tracker/</p>
 
 <h3>Tech Stack</h3>
 <div style=="display:flex;">
